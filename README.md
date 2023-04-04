@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.1.
 
-Watch full video here : [Click Here](https://youtu.be/ZykoMksRQvI)
+Watch full video : [Click Here](https://youtu.be/ZykoMksRQvI)
 
 ## Development server
 
