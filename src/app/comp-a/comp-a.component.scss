@@ -1,0 +1,23 @@
+h1 {
+  text-align: center;
+  color: white;
+  padding: 20px;
+}
+
+.form {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  input[type="text"] {
+    padding: 20px;
+    border: 1px black solid;
+    border-radius: 10px;
+    font-size: x-large;
+  }
+
+  button {
+    padding: 18px;
+    border: 2px solid black;
+    border-radius: 10px;
+  }
+}

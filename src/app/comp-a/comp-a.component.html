@@ -1,0 +1,6 @@
+<h1>Component A</h1>
+
+<div class="form">
+    <input type="text" #task>
+    <button (click)="_task.addTask(task.value); task.value = ''">ADD TASK</button>
+</div>

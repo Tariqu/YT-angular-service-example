@@ -1,0 +1,23 @@
+.navBar {
+  padding: 20px 0px;
+  font-family: roboto;
+  font-weight: 700;
+  font-size: 44px;
+  text-align: center;
+  background: rgb(10, 10, 94);
+  color: white;
+}
+
+.main {
+  display: flex;
+  app-comp-a {
+    flex: 1;
+    background-color: dimgrey;
+    height: calc(100vh - 93px);
+  }
+  app-comp-b {
+    flex: 1;
+    background-color: darkgreen;
+    height: calc(100vh - 93px);
+  }
+}
